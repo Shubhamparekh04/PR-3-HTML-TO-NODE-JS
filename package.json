@@ -1,0 +1,29 @@
+{
+  "name": "pr-3-html-to-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Shubhamparekh04/PR-3-HTML-TO-NODE-JS#readme",
+  "bugs": {
+    "url": "https://github.com/Shubhamparekh04/PR-3-HTML-TO-NODE-JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhamparekh04/PR-3-HTML-TO-NODE-JS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
